@@ -1,0 +1,14 @@
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\bin\Debug\popup 2.exe.config
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\bin\Debug\popup 2.exe
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\bin\Debug\popup 2.pdb
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\popup 2.csprojAssemblyReference.cache
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\MainWindow.baml
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\MainWindow.g.cs
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\App.g.cs
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\popup 2_MarkupCompile.cache
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\popup 2.g.resources
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\popup_2.Properties.Resources.resources
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\popup 2.csproj.GenerateResource.cache
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\popup 2.csproj.CoreCompileInputs.cache
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\popup 2.exe
+C:\Users\grzegorz.ogrodowczyk\source\repos\popup 2\popup 2\obj\Debug\popup 2.pdb
